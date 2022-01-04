@@ -1,0 +1,16 @@
+#OS junk files
+[Tt]humbs.db
+
+#Visual Studio files
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+packages/
+.vs/
+
+#Specific files only needed when generating the setup files downloaded from the VisualHint web site
+PropertyGridShowRoom/PropertyGridShowRoom_*.csproj
+PropertyGridShowRoom/PropertyGridShowRoom_*.sln
+QuickStart/QuickStart_*.csproj
+QuickStart/QuickStart_*.sln
