@@ -96,7 +96,7 @@
       <HintPath>.\Skybound.VisualTips.dll</HintPath>
     </Reference>
     <Reference Include="SmartPropertyGrid, Version=3.4.87.0, Culture=neutral, PublicKeyToken=717018457dd20991, processorArchitecture=MSIL">
-      <HintPath>..\packages\VisualHint.SmartPropertyGrid.3.4.87\lib\net40\SmartPropertyGrid.dll</HintPath>
+      <HintPath>..\packages\VisualHint.SmartPropertyGrid.Trial.3.4.87\lib\net40\SmartPropertyGrid.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
